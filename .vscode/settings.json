@@ -2,7 +2,8 @@
     "objectscript.conn.password": "password",
     "objectscript.autoCompile": true,
     "objectscript.conn.active": true,
-    "objectscript.conn.version": 3,
-    "objectscript.conn.port": 52773,
-    "objectscript.conn.ns": "ENSDEMO"
+    "objectscript.conn.version": 2,
+    "objectscript.conn.port": 52774,
+    "objectscript.conn.ns": "ENSDEMO",
+    "objectscript.conn.label": "IRISHEALTH"
 }
