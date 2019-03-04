@@ -4,20 +4,14 @@ ENSDEMO port to IRIS without HL7 and DICOM examples
 
 ## Prerequisites
 
-This project use large data files. Make sure that you have git-lfs installed.
-
-```
-See https://git-lfs.github.com/
-```
-
-As this port include HL7 and DICOM you need IRIS for Health.
+As this is port of ENSDEMO with HL7 and DICOM you need IRIS for Health.
 
 ### Installing
 
 Clone this repository
 
 ```
-git lfs clone https://github.com/grongierisc/InstallEnsDemoHealth.git
+git clone https://github.com/grongierisc/InstallEnsDemoHealth.git
 ```
 
 And run install.sh
