@@ -1,6 +1,6 @@
 # InstallEnsDemoHealth
 
-ENSDEMO port to IRIS without HL7 and DICOM examples
+ENSDEMO port to Intersystems IRIS with HL7 and DICOM examples
 
 ## Prerequisites
 
